@@ -96,7 +96,7 @@ ls | tee list.txt
 
 These file management and text processing commands are essential for working with data and files in Linux. In the next page, we'll cover system-related commands and more.
 
-[Next: Page 3 - System and Process Management](page3.md)
+[Next: Page 3 - System and Process Management](Page-3.md)
 
 ---
 
