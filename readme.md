@@ -41,10 +41,9 @@ Here's a brief overview of what each section covers:
 
 By the end of this tutorial, you'll have gained valuable knowledge about Ubuntu Linux commands. Remember that practice is key to mastering these commands, so feel free to experiment in your own Linux environment.
 
-If you have any questions or need further assistance, don't hesitate to ask. Enjoy your Linux journey!
+If you have any questions or need further assistance, don't hesitate to [ask](https://github.com/faisal-gits/Ubuntu-Linux-Basic-Commands-Tutorial/discussions/1). Enjoy your Linux journey!
 
 [Issues](https://github.com/faisal-gits/Ubuntu-Linux-Basic-Commands-Tutorial/issues/new)
-[Discussions](https://github.com/faisal-gits/Ubuntu-Linux-Basic-Commands-Tutorial/discussions/1)
 
 
 
