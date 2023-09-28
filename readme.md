@@ -2,7 +2,7 @@
 
 Welcome to the Ubuntu Linux Basic Commands Tutorial. This comprehensive guide is designed to help you get started with essential Linux commands, making your journey into the world of Ubuntu Linux smoother and more efficient. Whether you're a beginner or looking to refresh your knowledge, this tutorial has something for everyone.
 
-![Linux Terminal](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview)
+![Linux Terminal](https://ubuntucommunity.s3.dualstack.us-east-2.amazonaws.com/original/2X/b/ba76cbf3dc8dc2cc94d26dd61c7aad3cedcd5102.png)
 
 ## Table of Contents
 
