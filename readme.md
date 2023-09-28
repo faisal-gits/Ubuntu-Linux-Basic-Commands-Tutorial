@@ -43,6 +43,8 @@ By the end of this tutorial, you'll have gained valuable knowledge about Ubuntu 
 
 If you have any questions or need further assistance, don't hesitate to ask. Enjoy your Linux journey!
 
+[Issues](https://github.com/faisal-gits/Ubuntu-Linux-Basic-Commands-Tutorial/issues/new)
 [Discussions](https://github.com/faisal-gits/Ubuntu-Linux-Basic-Commands-Tutorial/discussions/1)
+
 
 
