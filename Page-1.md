@@ -97,7 +97,7 @@ file document.pdf
 
 These are just the basics. Continue to the next page for more Linux commands and their explanations.
 
-[Next: Page 2 - File Management and Navigation](page2.md)
+[Next: Page 2 - File Management and Navigation](Page-2.md)
 
 ---
 
