@@ -1,0 +1,1 @@
+Welcome to the Ubuntu Linux Basic Commands Tutorial. Linux is an open-source operating system known for its stability, security, and flexibility. Ubuntu is a popular distribution of Linux, and in this tutorial, we will cover essential commands to help you navigate and manage your Ubuntu system.
